@@ -1,5 +1,5 @@
 ## AI assistance
-AI assistance used for values in seed.sql verified by 
+AI assistance used for values in seed.sql, text correction in BRIEF.md and M2_NOTES.md verified by Joanna Zubik
 
 # Semester Project — End-to-End CRUD Application
 
