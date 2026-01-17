@@ -1,3 +1,16 @@
+## Setup steps
+1. create a new postgresql connection in your database management system with login: postgres, password: admin, port: 5433 and database: postgres
+2. run scripts: schema.sql, views.sql, indexes.sql, seed.sql
+3. add new app in appsmith
+4. click import from file
+5. use database_project_164225.json
+
+## ERD
+![](diagrams/ERD.png)
+
+## UML
+![](diagrams/UML.png)
+
 ## AI assistance
 AI assistance used for values in seed.sql, text correction in BRIEF.md and M2_NOTES.md verified by Joanna Zubik
 
