@@ -1,3 +1,6 @@
+## AI assistance
+AI assistance used for values in seed.sql verified by 
+
 # Semester Project — End-to-End CRUD Application
 
 **Course:** Database Systems (AI Specialization, PUT)
